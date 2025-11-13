@@ -8,9 +8,9 @@ public class Test {
         int res=a+b+c;
         System.out.println("the result is " +res);
     }
-    public static voi main(String[] args)
+    public static void main(String[] args)
     {
-        ad();
+        add();
     }
 }
 
